@@ -3,6 +3,7 @@
 A rock-paper-scissors game you play with your actual hands. Your webcam reads your gesture and the computer responds, but there's a catch: **the computer cheats.** It looks at your move and picks whatever beats it.
 
 Can you outsmart it?
+[Play Cheater RPS now!!](https://cheater-opal.vercel.app)
 
 ## How to play
 
